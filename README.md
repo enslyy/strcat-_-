@@ -11,7 +11,7 @@
 -  The combined length of strDest + strSource must fit within numberOfElements.
 ## Test
 ```c
-- 1. test.c
+//test.c
 #include <stdio.h>
 #include <string.h>
     extern int strcat+_+(char* result, size_t result_buf_size, const char* str1, const char* str2 );
