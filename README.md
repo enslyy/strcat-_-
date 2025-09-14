@@ -26,6 +26,6 @@ int main() {
     return 0;
 }
 ```
-'gcc -o  test/test src/test.c src/strcat+_+.c'.
+`gcc -o  test/test src/test.c src/strcat+_+.c`.
     
 
